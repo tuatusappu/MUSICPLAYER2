@@ -32,7 +32,7 @@ from signal import SIGINT
 import subprocess
 CHAT=Config.CHAT
 bot = Client(
-    "Musicplayer",
+    "Musicplayer2",
     Config.API_ID,
     Config.API_HASH,
     bot_token=Config.BOT_TOKEN,
